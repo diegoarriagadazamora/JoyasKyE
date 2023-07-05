@@ -4,3 +4,6 @@
 body{
     background-color: var(--background-color);
 }
+div.row.productos{
+background-color: var(--background-color);
+}
