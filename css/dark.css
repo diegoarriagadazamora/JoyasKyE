@@ -1,3 +1,7 @@
 :root{
 background-image: url(/img/fondoGris.jpg);
 }
+body{
+background-color: var(--background-color);
+color:lightgray;
+}
