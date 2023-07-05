@@ -18,7 +18,7 @@
 }
 
 body {
-background-color: var(--background-image);
+background-image: var(--background-image);
 color:lightgray;
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
@@ -62,7 +62,7 @@ max-width: 60%;
 	font-family: 'Noto Serif', serif;
 	font-style: italic;
 	display: flex;
-	align-items:end;
+	align-items:center;
 	justify-content:center;
 	color: #f309f3;
 	mix-blend-mode: multiply;
