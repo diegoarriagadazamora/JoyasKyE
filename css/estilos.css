@@ -1,5 +1,3 @@
-@import url(light.css);
-@import url(dark.css);
 @font-face {
 	font-family:"Anttelope";
 	src: url(../img/assets/anttelope-webfont.woff2)format("woff2");
@@ -16,12 +14,11 @@
     --purple-light: #be10be;
     --gray-light: #fafafa;
     --white: #f4fffd;
-	color-scheme: light dark;
+
 }
 
 body {
-background-color: var(--background-color);
-color:lightgray;
+
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
 }
