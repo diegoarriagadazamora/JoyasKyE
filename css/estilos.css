@@ -18,7 +18,7 @@
 }
 
 body {
-background-image: var(--background-image);
+background-color: var(--background-color);
 color:lightgray;
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
