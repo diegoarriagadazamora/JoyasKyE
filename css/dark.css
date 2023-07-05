@@ -1,7 +1,7 @@
 :root{
-background-image: url(/img/fondoGris.jpg);
+    background-image: url(/img/fondoGris.jpg);
 }
 body{
-background-image: var(--background-image);
-color:lightgray;
+    background-image: var(--background-image);
+    color:lightgray;
 }

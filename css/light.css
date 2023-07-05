@@ -1,5 +1,5 @@
 :root{
-background-image: url(/img/fondoBlanco.jpg);
+    background-image: url(/img/fondoBlanco.jpg);
 }
 body{
     background-image: var(--background-image);
