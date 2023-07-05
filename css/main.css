@@ -2,5 +2,5 @@
     color-scheme: light dark;
 }
 body{
-background-color: var(--background-image);
+background-color: var(--background-color);
 }
