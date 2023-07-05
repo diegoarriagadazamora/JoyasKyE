@@ -1,6 +1,6 @@
 :root{
-    background-image: url(/img/fondoBlanco.jpg);
+    background-color: white;
 }
 body{
-    background-image: var(--background-image);
+    background-color: var(--background-color);
 }
