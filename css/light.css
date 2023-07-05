@@ -2,5 +2,5 @@
 background-image: url(/img/fondoBlanco.jpg);
 }
 body{
-    background-color: var(--background-color);
+    background-image: var(--background-image);
 }

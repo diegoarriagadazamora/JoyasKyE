@@ -2,6 +2,6 @@
 background-image: url(/img/fondoGris.jpg);
 }
 body{
-background-color: var(--background-color);
+background-image: var(--background-image);
 color:lightgray;
 }
